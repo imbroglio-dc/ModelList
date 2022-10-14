@@ -1,0 +1,19 @@
+Package: ModelList
+Type: Package
+Title: HW 3
+Version: 0.1.0
+Author: David Chen
+Maintainer: David Chen <david.chen49@berkeley.edu>
+Description: S3 ModelList
+License: GPT-3
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    gapminder,
+    dplyr,
+    rpart, 
+    glmnetUtils, 
+    stats,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+RoxygenNote: 7.2.1
